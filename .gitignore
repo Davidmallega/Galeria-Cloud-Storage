@@ -1,0 +1,12 @@
+node_modules/
+package-lock.json
+dist/
+.env
+DEPLOY-GOOGLE-CLOUD.md
+diagramas/
+*.skill
+
+# Credenciales de Google Cloud
+*-credentials.json
+*-key.json
+service-account*.json
