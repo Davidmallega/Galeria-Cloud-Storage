@@ -2,8 +2,6 @@
 
 Aplicación fullstack desplegada en producción. Frontend React que sube imágenes a Google Cloud Storage a través de una API serverless en Cloud Run, con manejo de archivos binarios, validación en doble capa y URLs públicas servidas directamente desde el bucket.
 
-**Demo en vivo:** https://galeria-api-665079015955.us-central1.run.app/health
-
 ---
 
 ## Vista previa
